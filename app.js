@@ -14,7 +14,7 @@ for (var i = 0; i < nav_anchor_tags.length; i++) {
         return;
       }
       window.scrollBy(0, 50);
-    }, 50);
+    }, 20);
   });
 }
 
